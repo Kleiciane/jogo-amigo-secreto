@@ -1,4 +1,4 @@
-Sorteio de Amigos
+Sorteio de Amigos:
 Este código permite que você adicione amigos a uma lista, remova amigos, e sorteie aleatoriamente pares de amigos, exibindo o resultado de forma dinâmica na página.
 Ideal para jogos de amigo oculto ou sorteios entre amigos.
 
